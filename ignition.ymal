@@ -1,0 +1,13 @@
+ignition:
+  config:
+    timeouts: {}
+    version: "2.1.0"
+networkd: {}
+passwd:
+  users":
+  - name: "op"
+    passwordHash: "$1$lZdbjKTo$lQiTxseZ9xLmwonM46AXE/"
+    sshAuthorizedKeys:
+    - "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDXruM1HseJl1r3KAO09LbSt6tlg9/M807VsBLanMykACGSG39j8Uz9YbpJdcjLoFM68ih/CuIJjP1nh3ow9QjTfCcADNHbktVwBfB60clubRDQ2dbbIer9E2ZtR14KAmjXNj0xDMp/Oh8iS0+8ZgM0CIhXpC76fiLEcLbZnXIe0rcXIsP7OtnOCWSJHwYQrrfa/M5vnWc3OFd1FnusS+mvqLV8hsrK/dqg6d19b4zLjOFZ+AdOlPT2piEr0y5vpIR8+e2OAx0xF3DIGlaYPknN7AxhHr5OqjSS2mEYgGil8Je7j9YSoup/MFTxBvjENRum7pkfvLIC6M4Soou9Q7rx shix@localhost"
+storage: {}
+systemd: {}
